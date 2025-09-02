@@ -136,7 +136,7 @@ performance: Lightning Fast ⚡
 
 ### 📱 Application Preview
 
-<img src="https://via.placeholder.com/900x500/0D1117/00D4FF?text=🌦️+Weather+App+Preview+⚡" alt="Weather App Preview" style="border-radius: 10px; border: 2px solid #00D4FF;" />
+<img src="https://github.com/user-attachments/assets/4a9867e9-1a0d-461d-9b8c-e04888fde604?text=🌦️+Weather+App+Preview+⚡" alt="Weather App Preview" style="border-radius: 10px; width:500px; border: 20px solid #00D4FF;" />
 
 *Beautiful, intuitive interface designed for the modern user*
 
